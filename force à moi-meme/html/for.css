@@ -1,0 +1,90 @@
+header{
+    
+}
+
+nav{
+display: flex;
+width:70%;
+margin:0  auto;
+padding: 0 10px;
+}
+ul{
+    display: flex;
+    width: 100%;
+}
+
+.logo{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+li{
+    list-style: none;
+}
+
+.logo li{
+    
+}
+
+.logo li span{
+    color: #00bfa5;
+    margin: 0 0 0 10px;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.logo li{
+    font-size: 2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #caCaCa;
+    font-weight: bold;
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 40%;
+}
+
+.navigation li a{
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 5px;
+    color: #caCaCa;
+}
+
+.sec1{
+  width: 70%;
+  margin: 30px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+section h3{
+    color: #00bfa5;
+    font-size: 1,8rem;
+    font-weight: 200;
+    letter-spacing: 3px;
+}
+
+   .div1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.div1 p{
+    width: 40%;
+    padding: 10px;
+    font-size: 1,2em;
+}
+
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
